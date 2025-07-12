@@ -1,0 +1,90 @@
+﻿BestOption,Destination,Pickup Location,Time of Day,Distance (km),Duration (mins),Ola Mini,Ola Prime (SUV),Ola Sedan,Rapido Bike,Rapido Car,Uber Go,Uber Premier,Uber XL
+Uber,Amausi Airport,Hazratganj,01-01-1900 08:00:00,13.5,28,245,520,385,95,310,230,350,490
+Uber,Charbagh Railway Station,Gomti Nagar,01-01-1900 09:30:00,9.2,20,180,380,280,80,240,170,260,370
+Uber,Indira Nagar,Alambagh Bus Stand,01-01-1900 10:15:00,11.4,24,210,450,330,85,270,200,310,430
+Uber,Gomti Nagar,Charbagh Railway Station,01-01-1900 11:45:00,8.7,18,170,370,270,75,230,160,250,360
+Uber,Hazratganj,Amausi Airport,01-01-1900 13:00:00,13.5,30,250,530,390,100,320,240,370,510
+Uber,Mahanagar,Indira Nagar,01-01-1900 14:30:00,5.3,12,110,240,175,50,150,105,165,230
+Uber,Telibagh,Nishatganj,01-01-1900 15:45:00,6.8,16,130,280,205,60,185,125,195,270
+Uber,Gomti Nagar,Vibhuti Khand,01-01-1900 16:20:00,5.1,12,105,225,165,45,145,100,155,220
+Uber,Aminabad,Kaiserbagh,01-01-1900 17:00:00,2.7,8,70,160,110,35,100,65,105,150
+Uber,Chowk,Aminabad,01-01-1900 17:45:00,1.8,6,60,140,95,30,85,55,90,130
+Uber,Thakurganj,Chowk,01-01-1900 18:30:00,2.3,7,65,150,100,35,95,60,95,140
+Uber,Nakkhas,Thakurganj,01-01-1900 19:15:00,1.5,5,55,130,85,30,80,50,80,120
+Uber,Chowk,Nakkhas,01-01-1900 20:00:00,1.7,6,60,140,90,30,85,55,85,130
+Uber,Vibhuti Khand,Mahanagar,01-01-1900 20:45:00,3.2,8,80,180,125,40,115,75,120,170
+Uber,Gomti Nagar,Hazratganj,01-01-1900 21:30:00,6.2,15,130,280,200,60,190,125,195,270
+Uber,Gomti Nagar,Amausi Airport,01-01-1900 22:00:00,16.3,32,290,610,450,115,380,280,430,590
+Uber,Alambagh Bus Stand,Gomti Nagar,01-01-1900 22:30:00,12.1,25,230,490,360,95,310,220,340,470
+Uber,Alambagh Bus Stand,Charbagh Railway Station,01-01-1900 23:00:00,4.2,10,95,210,150,45,130,90,140,200
+Uber,Nishatganj,Indira Nagar,01-01-1900 23:30:00,7.3,18,140,300,220,65,200,135,210,290
+Uber,Chowk,Hazratganj,01-01-1900 06:00:00,3.5,10,75,170,120,35,110,70,115,165
+Uber,Vibhuti Khand,Gomti Nagar,01-01-1900 07:15:00,5.1,12,100,220,160,45,145,95,155,210
+Uber,Kaiserbagh,Alambagh Bus Stand,01-01-1900 08:30:00,5.5,14,105,230,170,50,150,100,160,220
+Uber,Aminabad,Charbagh Railway Station,01-01-1900 09:45:00,4.8,12,95,210,150,45,140,90,145,200
+Uber,Indira Nagar,Amausi Airport,01-01-1900 11:00:00,15.2,30,270,570,420,110,350,260,400,550
+Uber,Hazratganj,Indira Nagar,01-01-1900 12:15:00,7.8,18,145,310,230,65,195,140,220,300
+Uber,Mahanagar,Nishatganj,01-01-1900 13:30:00,6.5,15,125,270,195,60,180,120,190,260
+Uber,Charbagh Railway Station,Vibhuti Khand,01-01-1900 14:45:00,9.1,20,175,375,275,80,240,170,265,370
+Uber,Nakkhas,Kaiserbagh,01-01-1900 16:00:00,3.8,10,80,180,130,40,120,75,125,175
+Uber,Thakurganj,Aminabad,01-01-1900 17:15:00,2.1,6,60,140,95,30,90,55,90,130
+Uber,Nakkhas,Chowk,01-01-1900 18:30:00,1.9,5,55,130,90,30,85,50,85,125
+Uber,Chowk,Thakurganj,01-01-1900 19:45:00,2.1,6,60,140,95,30,90,55,90,130
+Uber,Aminabad,Nakkhas,01-01-1900 21:00:00,2.3,7,65,150,100,35,95,60,95,140
+Uber,Nishatganj,Mahanagar,01-01-1900 22:15:00,6.5,15,125,270,195,60,180,120,190,260
+Uber,Kaiserbagh,Hazratganj,01-01-1900 06:15:00,4.7,12,90,200,140,40,130,85,135,190
+Uber,Mahanagar,Gomti Nagar,01-01-1900 07:30:00,4.5,10,95,210,150,45,140,90,145,200
+Uber,Vibhuti Khand,Alambagh Bus Stand,01-01-1900 08:45:00,7.2,16,135,290,210,60,190,130,205,280
+Uber,Nishatganj,Charbagh Railway Station,01-01-1900 10:00:00,8.9,20,170,370,270,75,230,165,260,360
+Uber,Kaiserbagh,Amausi Airport,01-01-1900 11:15:00,14.8,30,265,560,415,105,345,255,395,545
+Uber,Charbagh Railway Station,Indira Nagar,01-01-1900 12:30:00,10.3,22,190,410,300,85,260,185,290,400
+Uber,Hazratganj,Nishatganj,01-01-1900 13:45:00,8.7,20,165,355,260,75,230,160,250,350
+Uber,Amausi Airport,Vibhuti Khand,01-01-1900 15:00:00,12.9,26,235,500,370,95,310,225,355,490
+Uber,Gomti Nagar,Kaiserbagh,01-01-1900 16:15:00,6.8,16,130,280,205,60,185,125,200,275
+Uber,Mahanagar,Aminabad,01-01-1900 17:30:00,4.3,10,85,190,135,40,125,80,130,185
+Uber,Vibhuti Khand,Chowk,01-01-1900 18:45:00,3.6,9,75,170,120,35,115,70,115,165
+Uber,Indira Nagar,Thakurganj,01-01-1900 20:00:00,6.9,16,130,280,205,60,185,125,200,275
+Uber,Nishatganj,Nakkhas,01-01-1900 21:15:00,5.2,12,100,220,160,45,150,95,155,215
+Uber,Amausi Airport,Mahanagar,01-01-1900 22:30:00,14.1,28,255,540,400,100,335,245,385,530
+Uber,Vibhuti Khand,Hazratganj,01-01-1900 06:30:00,5.8,14,110,240,175,50,155,105,170,235
+Uber,Kaiserbagh,Gomti Nagar,01-01-1900 07:45:00,6.8,16,130,280,205,60,185,125,200,275
+Uber,Aminabad,Alambagh Bus Stand,01-01-1900 09:00:00,6.3,15,120,260,190,55,170,115,185,255
+Uber,Thakurganj,Charbagh Railway Station,01-01-1900 10:15:00,5.7,14,110,240,175,50,160,105,170,235
+Uber,Nakkhas,Amausi Airport,01-01-1900 11:30:00,15.6,32,280,590,440,110,360,270,425,580
+Uber,Chowk,Indira Nagar,01-01-1900 12:45:00,6.1,14,115,250,180,55,165,110,175,245
+Uber,Thakurganj,Nishatganj,01-01-1900 14:00:00,5.4,13,105,230,165,50,160,100,160,225
+Uber,Kaiserbagh,Vibhuti Khand,01-01-1900 15:15:00,4.9,12,95,210,150,45,145,90,145,205
+Uber,Charbagh Railway Station,Kaiserbagh,01-01-1900 16:30:00,5.5,14,105,230,170,50,155,100,165,225
+Uber,Vibhuti Khand,Aminabad,01-01-1900 17:45:00,3.4,8,75,170,120,35,115,70,115,165
+Uber,Indira Nagar,Chowk,01-01-1900 19:00:00,6.1,14,115,250,180,55,165,110,175,245
+Uber,Mahanagar,Thakurganj,01-01-1900 20:15:00,7.2,16,135,290,210,60,190,130,205,280
+Uber,Amausi Airport,Nakkhas,01-01-1900 21:30:00,15.1,30,270,575,425,105,350,260,410,565
+Uber,Charbagh Railway Station,Mahanagar,01-01-1900 22:45:00,10.8,22,195,420,305,85,265,190,300,410
+Uber,Nishatganj,Hazratganj,01-01-1900 06:45:00,8.5,20,160,340,250,75,225,155,245,335
+Uber,Thakurganj,Gomti Nagar,01-01-1900 08:00:00,7.6,18,145,310,230,65,200,140,225,305
+Uber,Chowk,Alambagh Bus Stand,01-01-1900 09:15:00,6.7,16,125,270,195,60,185,120,190,260
+Uber,Mahanagar,Charbagh Railway Station,01-01-1900 10:30:00,10.8,22,195,420,305,85,265,190,300,410
+Uber,Vibhuti Khand,Amausi Airport,01-01-1900 11:45:00,12.9,26,235,500,370,95,310,225,355,490
+Uber,Kaiserbagh,Indira Nagar,01-01-1900 13:00:00,6.9,16,130,280,205,60,185,125,200,275
+Uber,Aminabad,Nishatganj,01-01-1900 14:15:00,5.7,14,110,240,175,50,160,105,170,235
+Uber,Chowk,Vibhuti Khand,01-01-1900 15:30:00,3.6,9,75,170,120,35,115,70,115,165
+Uber,Indira Nagar,Kaiserbagh,01-01-1900 16:45:00,6.9,16,130,280,205,60,185,125,200,275
+Uber,Nishatganj,Aminabad,01-01-1900 18:00:00,5.7,14,110,240,175,50,160,105,170,235
+Uber,Vibhuti Khand,Chowk,01-01-1900 19:15:00,3.6,9,75,170,120,35,115,70,115,165
+Uber,Gomti Nagar,Thakurganj,01-01-1900 20:30:00,7.6,18,145,310,230,65,200,140,225,305
+Uber,Hazratganj,Nakkhas,01-01-1900 21:45:00,4.3,10,85,190,135,40,125,80,130,185
+Uber,Alambagh Bus Stand,Mahanagar,01-01-1900 23:00:00,11.4,24,210,450,330,85,270,200,310,430
+Uber,Thakurganj,Hazratganj,01-01-1900 06:00:00,4.9,12,95,210,150,45,145,90,145,205
+Uber,Nakkhas,Gomti Nagar,01-01-1900 07:15:00,6.2,15,120,260,190,55,170,115,185,255
+Uber,Mahanagar,Alambagh Bus Stand,01-01-1900 08:30:00,11.4,24,210,450,330,85,270,200,310,430
+Uber,Aminabad,Charbagh Railway Station,01-01-1900 09:45:00,4.8,12,95,210,150,45,140,90,145,200
+Uber,Chowk,Amausi Airport,01-01-1900 11:00:00,14.3,28,260,550,410,105,340,250,395,540
+Uber,Vibhuti Khand,Indira Nagar,01-01-1900 12:15:00,5.1,12,100,220,160,45,145,95,155,215
+Uber,Kaiserbagh,Nishatganj,01-01-1900 13:30:00,6.2,15,120,260,190,55,170,115,185,255
+Uber,Indira Nagar,Vibhuti Khand,01-01-1900 14:45:00,5.1,12,100,220,160,45,145,95,155,215
+Uber,Nishatganj,Kaiserbagh,01-01-1900 16:00:00,6.2,15,120,260,190,55,170,115,185,255
+Uber,Charbagh Railway Station,Aminabad,01-01-1900 17:15:00,4.8,12,95,210,150,45,140,90,145,200
+Uber,Amausi Airport,Chowk,01-01-1900 18:30:00,14.3,28,260,550,410,105,340,250,395,540
+Uber,Hazratganj,Thakurganj,01-01-1900 19:45:00,4.9,12,95,210,150,45,145,90,145,205
+Uber,Gomti Nagar,Nakkhas,01-01-1900 21:00:00,6.2,15,120,260,190,55,170,115,185,255
+Uber,Alambagh Bus Stand,Mahanagar,01-01-1900 22:15:00,11.4,24,210,450,330,85,270,200,310,430

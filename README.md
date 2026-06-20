@@ -19,6 +19,8 @@ Delivered a solution that combines analytics + user-friendly design to enhance c
 cab among Ola, Uber and Rapido using historical data.
 
 # Problem Statement
+"I noticed that cab prices vary significantly across platforms for the same route. Users often switch between apps to compare prices manually. I wanted to create a solution that analyzes pricing patterns and recommends the best option quickly."
+
 Users manually compare multiple apps and face unpredictable surge pricing, wasting time and
 money.
 # Objectives
